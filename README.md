@@ -42,7 +42,14 @@ This project aims to develop an autonomous drone system designed to assist in di
 ### Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/KashmeeraTT/autonomous-drone-disaster-response.git
    cd autonomous-drone-disaster-response
+   ```
+
+2. Install the required dependencies (add specific dependencies as needed):
+   ```bash
+   # Example: Python dependencies
+   pip install -r requirements.txt
    ```
