@@ -43,6 +43,6 @@ This project aims to develop an autonomous drone system designed to assist in di
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/autonomous-drone-disaster-response.git
+   git clone https://github.com/KashmeeraTT/autonomous-drone-disaster-response.git
    cd autonomous-drone-disaster-response
    ```
